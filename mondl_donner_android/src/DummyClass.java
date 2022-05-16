@@ -7,5 +7,6 @@ public class DummyClass {
     public void thisIsANewMethod(){
         // sus
 	String coolName = "Astolfo";
+        System.out.println("I want a body pillow please");
     }
 }
