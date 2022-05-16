@@ -6,10 +6,10 @@ public class DummyClass {
         // fresh comments in random places
     }
 
-    public void thisIsANewMethod(){
+    public static void thisIsANewMethod(){
         // sus
 	String coolName = "Astolfo";        // fresh comment
-        System.out.println("I want a body pillow please");
-        System.out.println("\n");       // freshest comment
+        System.out.println("I want a body pillow of " + coolName + "  please");
+	System.out.println("\n");       // freshest comment
     }
 }
