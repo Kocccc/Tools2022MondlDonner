@@ -6,5 +6,6 @@ public class DummyClass {
 
     public void thisIsANewMethod(){
         // sus
+        System.out.println("I want a body pillow please");
     }
 }
