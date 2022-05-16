@@ -9,5 +9,6 @@ public class DummyClass {
         // sus
 	String coolName = "Astolfo";
         System.out.println("I want a body pillow please");
+        System.out.println("\n");
     }
 }
