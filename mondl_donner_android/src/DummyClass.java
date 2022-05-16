@@ -4,7 +4,7 @@ public class DummyClass {
 	System.out.println("Yummy");
     }
 
-    public void thisIsANewMethod(){
+    public static void thisIsANewMethod(){
         // sus
 	String coolName = "Astolfo";
         System.out.println("I want a body pillow of " + coolName + "  please");
