@@ -11,5 +11,7 @@ public class DummyClass {
 	String coolName = "Astolfo";        // fresh comment
         System.out.println("I want a body pillow of " + coolName + "  please");
 	System.out.println("\n");       // freshest comment
+    	System.out.printlm("Your Waifu is Trash");
+	//please donate money and memes to the Sussy Wittle Baka Churchussy Union Church
     }
 }
