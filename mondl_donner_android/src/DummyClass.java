@@ -6,5 +6,6 @@ public class DummyClass {
 
     public void thisIsANewMethod(){
         // sus
+	String coolName = "Astolfo";
     }
 }
